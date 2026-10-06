@@ -3,7 +3,7 @@ Portada
 
 Cómo crear una página web en GitHub Pages
 
-Nombre: Luis Tema: Publicación de páginas web
+Nombre: Jesus Tema: Publicación de páginas web
 
 ¿Qué es GitHub?
 
